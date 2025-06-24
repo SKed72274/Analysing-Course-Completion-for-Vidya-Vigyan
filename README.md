@@ -8,7 +8,7 @@
 
 ## 📘 Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#📌-introduction)
 - [Project Description](#project-description)
 - [Objective](#objective)
 - [Dataset Description](#dataset-description)
