@@ -202,16 +202,6 @@ Final accuracy from the Stacking Classifier: **~96%**
 - **Binary Conversion from PDP Thresholds**
 - **Ensemble Learning Techniques**
 
----
-
-## 👥 Authors
-
-**Team – The Maestro**
-
-- Subhashree Kedia
-- Muskan
-- Shivansh Gupta   
-
 🔗 [View Kaggle Notebook](https://www.kaggle.com/code/subhashreekedia/notebookc6cfa13a52)
 
 ---
