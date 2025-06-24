@@ -8,7 +8,7 @@
 
 ## 📘 Table of Contents
 
-- [Introduction](#📌-introduction)
+- [Introduction](https://github.com/SKed72274/Analysing-Course-Completion-for-Vidya-Vigyan?tab=readme-ov-file#-introduction)
 - [Project Description](#project-description)
 - [Objective](#objective)
 - [Dataset Description](#dataset-description)
