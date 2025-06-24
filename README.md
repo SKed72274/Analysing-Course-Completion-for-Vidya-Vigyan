@@ -208,9 +208,9 @@ Final accuracy from the Stacking Classifier: **~96%**
 
 **Team – The Maestro**
 
-- Subhashree Kedia  
-- Shivansh Gupta  
-- Muskan  
+- Subhashree Kedia
+- Muskan
+- Shivansh Gupta   
 
 🔗 [View Kaggle Notebook](https://www.kaggle.com/code/subhashreekedia/notebookc6cfa13a52)
 
